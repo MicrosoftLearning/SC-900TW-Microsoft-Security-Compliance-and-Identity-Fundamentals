@@ -1,35 +1,35 @@
-# INF99X: Sample Course
+﻿# INF99X：示範課程
 
-- **[Download Latest Student Handbook and AllFiles Content](../../releases/latest)**
-- **Are you a MCT?** - Have a look at our [GitHub User Guide for MCTs](https://microsoftlearning.github.io/MCT-User-Guide/)
-- **Need to manually build the lab instructions?** - Instructions are available in the [MicrosoftLearning/Docker-Build](https://github.com/MicrosoftLearning/Docker-Build) repository
+- **[下載最新的學生手冊和 AllFiles 內容](../../releases/latest)**
+- **您是 MCT 嗎？** - 請查看我們的 [GitHub MCT 使用者指南](https://microsoftlearning.github.io/MCT-User-Guide/)
+- **需要手動生成實驗室說明嗎？** - [MicrosoftLearning/Docker-Build](https://github.com/MicrosoftLearning/Docker-Build) 存儲庫中提供了說明。
 
-## What are we doing?
+## 我們在做什麼？
 
-- To support this course, we will need to make frequent updates to the course content to keep it current with the Azure services used in the course.  We are publishing the lab instructions and lab files on GitHub to allow for open contributions between the course authors and MCTs to keep the content current with changes in the Azure platform.
+- 為了支援本課程，我們將需要頻繁更新課程內容，以使其與課程中使用的 Azure 服務保持最新。  我們將在 GitHub 上發布實驗說明和實驗文件，以允許課程作者和 MCT 之間做出開放性的貢獻，以使內容隨 Azure 平台的更改而保持最新。
 
-- We hope that this brings a sense of collaboration to the labs like we've never had before - when Azure changes and you find it first during a live delivery, go ahead and make an enhancement right in the lab source.  Help your fellow MCTs.
+- 我們希望這給實驗室帶來了前所未有的協作感 -當 Azure 發生變化並且您在即時交付期間首先找到它後，請繼續並在實驗室源代碼中進行增強。  幫助您的其他 MCT。
 
-## How should I use these files relative to the released MOC files?
+## 相對於已發布的 MOC 文件，我應該如何使用這些檔案？
 
-- The instructor handbook and PowerPoints are still going to be your primary source for teaching the course content.
+- 教員手冊和 PowerPoint 仍將是您教授課程內容的主要來源。
 
-- These files on GitHub are designed to be used in conjunction with the student handbook, but are in GitHub as a central repository so MCTs and course authors can have a shared source for the latest lab files.
+- GitHub 上的這些文件旨在與學生手冊結合使用，但是在 GitHub 中作為中央存儲庫使用，因此 MCT 和課程作者可以擁有最新實驗室文件的共享源。
 
-- It will be recommended that for every delivery, trainers check GitHub for any changes that may have been made to support the latest Azure services, and get the latest files for their delivery.
+- 建議對於每次交付，培訓人員都要檢查 GitHub 以了解為支持最新的 Azure 服務而進行的任何更改，並獲取了最新的交付文件。
 
-## What about changes to the student handbook?
+## 那對學生手冊的改動呢？
 
-- We will review the student handbook on a quarterly basis and update through the normal MOC release channels as needed.
+- 我們將每季度審核一次學生手冊，並根據需要通過正常的MOC發布渠道進行更新。
 
-## How do I contribute?
+## 我該如何參與？
 
-- Any MCT can submit a pull request to the code or content in the GitHub repro, Microsoft and the course author will triage and include content and lab code changes as needed.
+- 任何 MCT都可以向 GitHub repro 中的代碼或內容提交提取要求，Microsoft 和課程作者將進行分類，並根據需要包括內容和實驗室代碼更改。
 
-- You can submit bugs, changes, improvement and ideas.  Find a new Azure feature before we have?  Submit a new demo!
+- 您可以提交錯誤、變更、改進和想法。  在擁有之前找到新的 Azure 功能嗎？  提交新的演示！
 
-## Notes
+## 附註
 
-### Classroom Materials
+### 教室材料
 
-It is strongly recommended that MCTs and Partners access these materials and in turn, provide them separately to students.  Pointing students directly to GitHub to access Lab steps as part of an ongoing class will require them to access yet another UI as part of the course, contributing to a confusing experience for the student. An explanation to the student regarding why they are receiving separate Lab instructions can highlight the nature of an always-changing cloud-based interface and platform. Microsoft Learning support for accessing files on GitHub and support for navigation of the GitHub site is limited to MCTs teaching this course only.
+強烈建議 MCT 和合作夥伴訪問這些材料，然後分別提供給學生。  將學生直接指向 GitHub 存取實驗室的步驟是正在進行的課程的一部分，這將要求他們在課程中存取另一個 UI，從而給學生帶來混亂的體驗。向學生解釋為什麼他們會收到單獨的實驗室說明，這可以突出說明不斷變化的基於雲端的界面和平台的本質。Microsoft Learning 對存取 GitHub 上的文件的支持以及對 GitHub 站點瀏覽的支援僅限於僅教授本課程的 MCT。
