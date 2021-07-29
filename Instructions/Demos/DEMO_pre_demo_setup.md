@@ -1,5 +1,5 @@
 ﻿---
-預先示範設定：
+Pre-Demo Setup:
     title: '示範設定'
 ---
 
@@ -12,7 +12,7 @@
 
 1. 按右鍵 Microsoft Edge 圖示，然後選取**新的 InPrivate 視窗**以開啟新的 In-Private 瀏覽器工作階段。其他 
 
-1. 在網址列輸入 **www.microsoftazurepass.com**。  
+1. 在網址列輸入 **www.microsoftazurepass.com**
 
 1. 選取**開始**按鈕以開始使用。
 
