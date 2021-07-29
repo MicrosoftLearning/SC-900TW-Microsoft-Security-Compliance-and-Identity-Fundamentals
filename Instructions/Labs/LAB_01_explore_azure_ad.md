@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: '探索 Azure Active Directory'
     module: '單元 2，第 1 課：描述 Microsoft 身分識別與存取權管理解決方案的功能：探索 Azure AD 的服務和身分識別類型'
