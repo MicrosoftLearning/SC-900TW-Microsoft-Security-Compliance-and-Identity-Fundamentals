@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: '探索 Azure AD 中 Privileged Identity Management 的身分識別治理。 '
     module: '單元 2，第 4 課：描述 Azure AD 的身分識別保護和治理功能：描述 Azure 身分識別保護。'

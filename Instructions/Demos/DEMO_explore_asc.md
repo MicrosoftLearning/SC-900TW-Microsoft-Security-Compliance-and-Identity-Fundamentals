@@ -1,4 +1,4 @@
-﻿---
+---
 Demo:
     title: 'Azure 資訊安全中心'
     module: '單元 3，第 2 課：描述 Microsoft 安全性解決方案的功能：描述 Azure 的安全管理功能'
