@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: '瀏覽服務信任入口網站'
     module: '單元 4，第 1 課：描述 Microsoft 合規性解決方案的功能：描述 Microsoft 中的合規性管理功能'
