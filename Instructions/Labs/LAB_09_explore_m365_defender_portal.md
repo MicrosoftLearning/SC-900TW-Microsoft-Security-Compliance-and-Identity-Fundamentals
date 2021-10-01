@@ -1,10 +1,5 @@
-<<<<<<< HEAD
-﻿---
-lab:
-=======
 ---
-實驗室：
->>>>>>> 6181390c7187dc1c3dbbbf172b814f1387082eae
+lab:
     title: '探索 Microsoft 365 Defender 入口網站'
     module: '單元 3，第 5 課：描述 Microsoft 安全性解決方案的功能：描述 Microsoft 365 的安全管理功能'
 ---
