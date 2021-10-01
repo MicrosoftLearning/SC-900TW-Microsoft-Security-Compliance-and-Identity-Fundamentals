@@ -1,10 +1,5 @@
-<<<<<<< HEAD
-﻿---
-Pre-Demo Setup:
-=======
 ---
-預先示範設定：
->>>>>>> 6181390c7187dc1c3dbbbf172b814f1387082eae
+Pre-Demo Setup:
     title: '示範設定'
 ---
 
