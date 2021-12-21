@@ -1,4 +1,4 @@
----
+﻿---
 Demo:
     title: 'Azure Active Directory 自助式密碼重設'
     module: '單元 2，第 2 課：描述 Microsoft 身分識別與存取權管理解決方案的功能：描述 Azure AD 的不同身分識別驗證方法'

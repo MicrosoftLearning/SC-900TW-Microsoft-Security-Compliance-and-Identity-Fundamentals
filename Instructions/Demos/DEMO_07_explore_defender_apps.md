@@ -1,14 +1,14 @@
----
+﻿---
 Demo:
-    title: 'Microsoft Cloud App Security'
+    title: 'Microsoft Defender for Cloud Apps'
     module: '單元 3，第 4 課：描述 Microsoft 安全性解決方案的功能：描述 Microsoft 365 Defender 威脅防護'
 ---
 
 
-# 示範：Microsoft Cloud App Security
+# 示範： Microsoft Defender for Cloud Apps
 
 ### 示範案例
-在本示範中，您將展示 Microsoft Cloud App Security 的功能。  您將會帶領學員了解 Cloud Discovery 儀表板上的可用資訊以及用來調查結果的可用功能，並透過原則控制對組織造成的影響。  備註：  組織必須有授權才能使用 Microsoft Cloud App Security，這是一個使用者型訂閱服務。  
+在本示範中，您將展示 Microsoft Defender for Cloud Apps 的功能。  您將會帶領學員了解 Cloud Discovery 儀表板上顯示的資訊，並說明調查結果時可以使用的各項功能，並透過原則來控制對組織造成的影響。  備註：  組織必須擁有授權才能使用 Microsoft Defender for Cloud Apps，這是一種使用者訂閱服務。  
 
 #### 示範第 1 部分：探索 Cloud Discovery。
 
@@ -22,7 +22,7 @@ Demo:
 
 1. 從 Microsoft 365 Defender 頁面的左側導覽面板下方，選取**更多資源**。
 
-1. 在 **Microsoft Cloud App Security** 卡片上選取**開啟**。  新的瀏覽器頁面會開啟至 Cloud App Security 儀表板。  請注意可用的資訊卡片。  卡片上可能不會有任何資訊，因為這是預先設定的實驗用戶環境，尚未真正使用。  
+1. 在 [**Microsoft Defender for Cloud Apps**] 卡片上選取 [**開啟**]。  新的瀏覽器頁面會隨即開啟，顯示 Cloud App Security 儀表板。  請注意可用的資訊卡片。  卡片上可能不會有任何資訊，因為這是預先設定的實驗用戶環境，尚未真正使用。  
 
 1. 在左側導覽面板選取**探索**，接著從下拉式列表選取 **Cloud Discovery 儀表板**。  儀表板包括已探索的應用程式概覽、應用程式類別、風險層級等。  
 
@@ -63,13 +63,13 @@ Demo:
 1. 請保持此頁面開啟，您將在下個工作中使用它。
 
 
-#### 示範第 3 部分：在此工作中，您將會探索 Microsoft Cloud app security 的原則與警示頁面。
+#### 示範第 3 部分：在此工作中，您將會探索 Microsoft Defender for Cloud Apps 的原則與警示頁面。
 
-1. 從左側導覽面板的「控制」下方，選取**原則**。  列出的原則提供由原則、嚴重性等所產生的警示數量。選取任何條項會提供原則的詳細資訊。選取一個清單項目，例如**風險性登入**。  
+1. 從左側導覽面板的 [控制] 底下選取 [**原則**]。  列出的原則提供由原則、嚴重性等所產生的警示數量。選取任何條項會提供原則的詳細資訊。選取一個清單項目，例如**風險性登入**。  
 
 1. 在左側導覽面板中選取**警示**。  如果您有任何列出的警示，請在警示清單中選取一個項目。檢閱提供的資訊。  在視窗的右上方選取**關閉警示**以檢視關閉警示的選項。  
 
 1. 關閉瀏覽器視窗。
 
 #### 回顧
-在本示範中，您展示了 Microsoft Cloud App Security 的功能。  您已展示 Cloud Discovery 儀表板上的可用資訊以及用來調查結果的可用功能，並透過原則控制對組織造成的影響。
+在本示範中，您展示了 Microsoft Defender for Cloud Apps 的功能。  您已展示 Cloud Discovery 儀表板上顯示的資訊，說明調查結果時可以使用的各項功能，並透過原則控制對組織造成的影響。
