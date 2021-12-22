@@ -1,4 +1,4 @@
-﻿---
+---
 Demo:
     title: 'Azure 原則'
     module: '單元 4，第 5 課：描述 Microsoft 合規性解決方案的功能：描述 Azure 原則'
