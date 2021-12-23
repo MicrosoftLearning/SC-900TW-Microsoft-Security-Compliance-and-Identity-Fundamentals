@@ -24,13 +24,13 @@ lab:
     1. 輸入應由您的實驗託管提供者提供的管理員密碼。請選取**登入**。
     1. 當提示保持登入狀態時，請選取**是**。
 
-3. 在螢幕左上角的 Microsoft Azure 旁邊，請選取 [顯示入口網站功能表] 圖示 (三條水平線，又稱為漢堡圖示)，接著選取**所有服務**。  
+3. 在螢幕左上角的 Microsoft Azure 旁邊，請選取 「顯示入口網站功能表」 圖示 (三條水平線，又稱為漢堡圖示)，接著選取**所有服務**。  
 
-4. 在篩選服務方塊中輸入 **Microsoft Sentinel**，然後從清單中選取 [**Microsoft Sentinel**]。
+4. 在篩選服務方塊中輸入 **Microsoft Sentinel**，然後從清單中選取 「**Microsoft Sentinel**」。
 
-5. 在 Microsoft Sentinel 頁面上選取 [**建立 Microsoft Sentinel**]。
+5. 在 Microsoft Sentinel 頁面上選取 「**建立 Microsoft Sentinel**」。
 
-6. 在 [新增 Microsoft Sentinel 到工作區] 頁面上選取 [**建立新工作區**]。
+6. 在 「新增 Microsoft Sentinel 到工作區」 頁面上選取 「**建立新工作區**」。
 
 7. 在建立 Log Analytics 工作區的基本索引標籤中，輸入以下內容：
     1. 訂用帳戶：  **Azure Pass – 贊助**
@@ -54,11 +54,11 @@ lab:
 
 #### 工作 2：  建立 Microsoft Sentinel 執行個體後，您需要確保為支援 Microsoft Sentinel 而部署的資源具有必要的存取權限。  在這個工作中，您將前往使用 Microsoft Sentinel 執行個體所建立資源群組的存取控制 (IAM) 頁面，檢視可供使用的角色，並為自己 (MOD 管理員) 指派所需角色。在資源群組層級指派角色，可確保該角色套用至為支援 Microsoft Sentinel 而部署的所有資源。
 
-1. 在 Microsoft Sentinel 頁面左上角，從 Microsoft Sentinel 的上方選取 [**所有服務**]。
+1. 在 Microsoft Sentinel 頁面左上角，從 Microsoft Sentinel 的上方選取 「**所有服務**」。
 
-2. 在篩選服務方塊中輸入「資源群組」，然後從提供的清單中選取 [**資源群組**]。
+2. 在篩選服務方塊中輸入「資源群組」，然後從提供的清單中選取 「**資源群組**」。
 
-3. 在 [資源群組] 頁面中選取您使用 Microsoft Sentinel 建立的資源群組 **SC900-ResourceGroup**。
+3. 在 「資源群組」 頁面中選取您使用 Microsoft Sentinel 建立的資源群組 **SC900-ResourceGroup**。
 
 4. 在 SC900-ResourceGroup 頁面中，從左側導覽面板中選取**存取控制 (IAM)**。
 
@@ -78,7 +78,7 @@ lab:
 
 #### 工作 3：  在此工作中，您將逐步說明將 Microsoft Sentinel 連線至資料來源，以開始收集資料的流程。注意：顯示連接器的連線狀態可能需要一些時間 (約 30 分鐘，實際時間取決於租用戶)。
 
-1. 在 [所有服務] 頁面的 [篩選服務] 方塊中輸入 **Microsoft Sentinel**，然後從結果清單中選取 [**Microsoft Sentinel**]。 
+1. 在 「所有服務」 頁面的 「篩選服務」 方塊中輸入 **Microsoft Sentinel**，然後從結果清單中選取 「**Microsoft Sentinel**」。 
 
 2. 在 Microsoft Sentinel 頁面上選取您使用 Microsoft Sentinel 執行個體建立的工作區 **SC900-LogAnalytics-workspace**。
 
@@ -90,7 +90,7 @@ lab:
 
 6. 在 Azure Active Directory 連接器頁面中，請檢閱說明並記下相關內容，其中包括活頁簿、查詢和分析規則範本。  
 
-7. 主要視窗中的指示索引標籤會提供 Microsoft Sentinel 與 Azure Active Directory 整合的先決條件。   在設定底下選取 [**登入記錄**]，然後選取 [套用變更] (可選擇多個連接器)。
+7. 主要視窗中的指示索引標籤會提供 Microsoft Sentinel 與 Azure Active Directory 整合的先決條件。   在設定底下選取 「**登入記錄**」，然後選取 「套用變更」 (可選擇多個連接器)。
 
 8. 在下一步索引標籤中，請記下建議的活頁簿清單。   在建議的活頁簿下，請選取 **Azure 登入記錄** (可以選取其他活頁簿)。
 
@@ -98,7 +98,7 @@ lab:
 
 10. 從以開啟的 Azure AD 登入記錄視窗中，檢閱說明然後選取**檢視範本**。  透過選取螢幕右上角的 **X** 退出範本。  從頁面底部選取**儲存**，然後選取**確定**將活頁簿儲存至預設位置。
 
-11. 在 [活頁簿] 頁面的左上角，選取 [活頁簿] 上方的 [**Microsoft Sentinel**]。您會隨即返回 Microsoft Sentinel 的 [資料連接器] 頁面。
+11. 在 「活頁簿」 頁面的左上角，選取 「活頁簿」 上方的 「**Microsoft Sentinel**」。您會隨即返回 Microsoft Sentinel 的 「資料連接器」 頁面。
 
 12. 資料連接器頁面的頂部應該會顯示 1 個連接器已連線，以反映您現在已連線至 Azure Active Directory。
 
@@ -122,7 +122,7 @@ lab:
 
 6. 設定規則邏輯頁面為定義新分析規則邏輯的位置。範本已經提供一些邏輯和預先定義的設定。  滾動頁面以查看可用設定。  保留預設值。請選取**下一步：事件設定 (預覽)>**。
 
-7. 透過 [事件設定]，您可以將 Microsoft Sentinel 警示分組，將其彙整為應查看的事件。您可以設定此分析規則觸發的警報是否應該產生事件。  保留預設值設定，並選取**下一步：自動回應 >**。
+7. 透過 「事件設定」，您可以將 Microsoft Sentinel 警示分組，將其彙整為應查看的事件。您可以設定此分析規則觸發的警報是否應該產生事件。  保留預設值設定，並選取**下一步：自動回應 >**。
 
 8. 在自動回應索引標籤中，請注意如何新增劇本以進行自動回應。  同樣，您可以建立事件自動化規則。  在事件自動化下，請選取 **+ 新增**新的。  建立新自動化規則的視窗已開啟。  您在此頁面上建立的任何自動化規則都會由您正在使用的分析規則觸發。請注意，您可以為該規則新增條件和設定動作。   請選取**取消**以退出視窗。
 
@@ -143,13 +143,13 @@ lab:
 
 #### 工作 6：  刪除 Microsoft Sentinel 資源群組。  Microsoft Sentinel 會根據 Microsoft Sentinel 中實際用於分析作業的資料量來收取費用。儘管此實驗擷取的資料量很少，但建議您在探索完 Microsoft Sentinel 的功能後，刪除 Microsoft Sentinel 資源群組。
 
-1. 在 Microsoft Sentinel 頁面左上角，從 Microsoft Sentinel 的上方選取 [**所有服務**]。
+1. 在 Microsoft Sentinel 頁面左上角，從 Microsoft Sentinel 的上方選取 「**所有服務**」。
 
-2. 在篩選服務方塊中輸入「資源群組」，然後從提供的清單中選取 [**資源群組**]。
+2. 在篩選服務方塊中輸入「資源群組」，然後從提供的清單中選取 「**資源群組**」。
 
-3. 在 [資源群組] 頁面中選取您使用 Microsoft Sentinel 建立的資源群組 **SC900-ResourceGroup**。
+3. 在 「資源群組」 頁面中選取您使用 Microsoft Sentinel 建立的資源群組 **SC900-ResourceGroup**。
 
-4. 從頁面最上方的中間位置選取 [**刪除資源群組**]。  檢閱警告。  輸入資源群組名稱 **SC900-ResourceGroup**，然後從頁面底部選取**刪除**。  刪除資源群組需要幾分鐘的時間。
+4. 從頁面最上方的中間位置選取 「**刪除資源群組**」。  檢閱警告。  輸入資源群組名稱 **SC900-ResourceGroup**，然後從頁面底部選取**刪除**。  刪除資源群組需要幾分鐘的時間。
 
 5. 驗證資源群組已刪除後，請關閉瀏覽器頁面。 
 
