@@ -1,4 +1,4 @@
-﻿---
+---
 Pre-Demo Setup:
     title: '示範設定'
 ---

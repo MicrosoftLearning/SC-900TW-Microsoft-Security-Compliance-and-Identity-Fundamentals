@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: '探索 Microsoft Sentinel'
     module: '單元 3，第 3 課：描述 Microsoft 安全性解決方案的功能：描述 Microsoft Sentinel 的安全性功能'
