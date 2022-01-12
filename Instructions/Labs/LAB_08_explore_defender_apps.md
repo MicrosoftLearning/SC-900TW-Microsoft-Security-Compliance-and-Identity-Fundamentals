@@ -8,7 +8,7 @@ lab:
 # 實驗：探索 Microsoft Defender for Cloud Apps
 
 ## 實驗案例
-在本實驗中，您將會探索 Microsoft Defender for Cloud Apps 的功能。  您將逐步講解 Cloud Discovery 儀表板上顯示的資訊、說明調查結果時可以使用的各項功能，並透過原則控制對組織造成的影響。  備註：  組織必須擁有授權才能使用 Microsoft Defender for Cloud Apps，這是一種使用者訂閱服務。 
+在本實驗中，您將會探索 Microsoft Defender for Cloud Apps 的功能。  您將逐步了解 Cloud Discovery 儀表板上的可用資訊以及用來調查結果的可用功能，並透過原則控制對組織造成的影響。  備註：  組織必須擁有授權才能使用 Microsoft Defender for Cloud Apps，這是一種使用者訂閱服務。 
 
 **預估時間**：15-20 分鐘
 
@@ -27,7 +27,7 @@ lab:
 
 1. 從 Microsoft 365 Defender 頁面的左側導覽面板下方，選取**更多資源**。
 
-1. 在 **Microsoft Defender for Cloud Apps** 卡片上選取 「**開啟**」。  新的瀏覽器頁面會隨即開啟，顯示 Cloud App Security 儀表板。  請注意可用的資訊卡片。  卡片上可能不會有任何資訊，因為這是預先設定的實驗用戶環境，尚未真正使用。  
+1. 在 「**Microsoft Defender for Cloud Apps**」 卡片上選取 「**開啟**」。  新的瀏覽器頁面隨即開啟，顯示 Cloud App Security 儀表板。  請注意可用的資訊卡片。  卡片上可能不會有任何資訊，因為這是預先設定的實驗用戶環境，尚未真正使用。  
 
 1. 在左側導覽面板選取**探索**，接著從下拉式列表選取 **Cloud Discovery 儀表板**。  儀表板包括已探索的應用程式概覽、應用程式類別、風險層級等。  
     1. 在 Cloud Discovery 頁面上方選取 **已探索的應用程式**索引標籤。  已探索的應用程式視窗會提供有關已探索的應用程式更詳細的檢視內容，包括風險分數、流量及使用者數量等。
@@ -72,4 +72,4 @@ lab:
 1. 關閉瀏覽器視窗。
 
 #### 回顧
-在本實驗中，您已探索 Microsoft Defender for Cloud Apps 的功能。  您已逐步說明 Cloud Discovery 儀表板上顯示的資訊，並說明調查結果時可以使用的各項功能，並透過原則來控制對組織造成的影響。
+在本實驗中，您已探索 Microsoft Defender for Cloud Apps 的功能。  您已逐步了解 Cloud Discovery 儀表板上的可用資訊以及用來調查結果的可用功能，並透過原則控制對組織造成的影響。
